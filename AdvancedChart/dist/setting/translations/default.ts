@@ -1,5 +1,5 @@
 export default {
-  _widgetLabel: 'Chart',
+  _widgetLabel: 'AdvancedChart2',
   chartType: 'Chart type',
   chartTemplateTip: 'Select a chart template',
   selectChart: 'Select chart',

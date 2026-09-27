@@ -1,5 +1,5 @@
 export default {
-  _widgetLabel: 'Chart',
+  _widgetLabel: 'AdvancedChart2',
   bar1SeriesLimitation: 'Bar or column charts with one series are limited to 10,000 bars in total. Please filter or re-aggregate your data and try again.',
   bar2SeriesLimitation: 'Bar or column charts with two series are limited to 2,000 bars, or 1,000 bars per series. Please filter or re-aggregate your data and try again.',
   bar3SeriesLimitation: 'Bar or column charts with three or more series are limited to 2,000 bars, or 100 bars per series. Please filter or re-aggregate your data and try again.',
